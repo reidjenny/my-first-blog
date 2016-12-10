@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+
+}
+
+h1 a {
+    color: #FCA205;
+    font-family: 'Lobster';
+    font-size: 65px;
+}
